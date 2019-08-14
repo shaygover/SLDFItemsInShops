@@ -1,0 +1,4 @@
+v0.1.0: Initial release
+v0.1.1: Too many items in shop. Reducing all high level counts to 70%, Higher probabilities to 140%
+v0.2.0: Still to many. Reducing low level counts to 20% or 1. Amounts should be controlled from the high level (i.e. itemCollection_SLDF_lvl-# files). Reducing pirate counts to 8 (from 28).
+v0.2.1: Too many. Reducing low level to 1.
