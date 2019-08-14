@@ -1,0 +1,20 @@
+{
+    "Name": "SLDFItemsInShops",
+    "Enabled": true,
+
+    "Version": "0.2.0",
+    "Description": "Adds uncommon, rare and SLDF items to Arano restoration shops",
+    "Author": "tharbad08",
+    "Website": "===>www.github.com/BattletechModders/ModTek",
+    "Contact": "Use github Issues",
+
+    "Manifest": [
+        { "Type": "MechDef", "Path": "mech", "ShouldMergeJSON": true },
+        { "Type": "WeaponDef", "Path": "weapon", "ShouldMergeJSON": true },
+        { "Type": "StarSystemDef", "Path": "starsystem", "ShouldMergeJSON": true },
+        { "Type": "AmmunitionBoxDef", "Path": "ammunitionBox", "ShouldMergeJSON": true },
+        { "Type": "StarSystemDef", "Path": "starsystem", "ShouldMergeJSON": true },
+        { "Type": "ItemCollectionDef", "Path": "items" },
+        { "Type": "ShipModuleUpgrade", "Path": "simulator", "ShouldMergeJSON": true }        
+    ]
+} 
