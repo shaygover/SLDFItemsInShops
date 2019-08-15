@@ -2,10 +2,10 @@
     "Name": "SLDFItemsInShops",
     "Enabled": true,
 
-    "Version": "0.2.0",
+    "Version": "0.2.1",
     "Description": "Adds uncommon, rare and SLDF items to Arano restoration shops",
     "Author": "tharbad08",
-    "Website": "===>www.github.com/BattletechModders/ModTek",
+    "Website": "https://github.com/tharbad08/BTshopsupgrade",
     "Contact": "Use github Issues",
 
     "Manifest": [
