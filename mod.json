@@ -1,11 +1,13 @@
 {
     "Name": "SLDFItemsInShops",
     "Enabled": true,
+    
+    "DependsOn": ["LC_SLDFRoyal_itemCollections"],
 
-    "Version": "0.2.1",
+    "Version": "0.3.0",
     "Description": "Adds uncommon, rare and SLDF items to Arano restoration shops",
     "Author": "tharbad08",
-    "Website": "https://github.com/tharbad08/BTshopsupgrade",
+    "Website": "https://github.com/shaygover/BTshopsupgrade",
     "Contact": "Use github Issues",
 
     "Manifest": [

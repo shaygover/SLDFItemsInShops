@@ -1,0 +1,13 @@
+{
+    "Description" : {
+        "Name" : "Centurion",
+        "Purchasable" : true
+    },
+    "MechTags" : {
+        "items" : [
+            "unit_mech",
+            "unit_medium"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}

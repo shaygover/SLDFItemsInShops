@@ -17,10 +17,10 @@
             "planet_pop_small",
             "planet_civ_periphery",
             "planet_progress_2",
-            "planet_industry_mining",
             "planet_other_comstar",
-            "planet_name_artru_flipped",
-            "planet_faction_restoration"
+            "planet_name_artru",
+            "planet_faction_restoration",
+            "planet_other_starleague"
         ],
         "tagSetSourceFile": ""
     },
@@ -37,65 +37,65 @@
     },
     "FuelingStation": false,
     "JumpDistance": 8,
-    "Owner": "AuriganRestoration",
+    "ownerID": "AuriganRestoration",
     "ShopRefreshRate": 0,
     "ShopMaxInventory": 0,
     "ShopMaxSpecials": 7,
     "SystemInfluence": [
         {
-            "Faction": "NoFaction",
+            "factionID": "NoFaction",
             "Influence": 0
         },
         {
-            "Faction": "Davion",
+            "factionID": "Davion",
             "Influence": 0
         },
         {
-            "Faction": "Liao",
+            "factionID": "Liao",
             "Influence": 0
         },
         {
-            "Faction": "Kurita",
+            "factionID": "Kurita",
             "Influence": 0
         },
         {
-            "Faction": "Marik",
+            "factionID": "Marik",
             "Influence": 0
         },
         {
-            "Faction": "Steiner",
+            "factionID": "Steiner",
             "Influence": 0
         },
         {
-            "Faction": "TaurianConcordat",
+            "factionID": "TaurianConcordat",
             "Influence": 0
         },
         {
-            "Faction": "MagistracyOfCanopus",
+            "factionID": "MagistracyOfCanopus",
             "Influence": 0
         },
         {
-            "Faction": "AuriganDirectorate",
+            "factionID": "AuriganDirectorate",
             "Influence": 0
         },
         {
-            "Faction": "AuriganRestoration",
+            "factionID": "AuriganRestoration",
             "Influence": 0
         },
         {
-            "Faction": "ComStar",
+            "factionID": "ComStar",
             "Influence": 0
         },
         {
-            "Faction": "MercenaryReviewBoard",
+            "factionID": "MercenaryReviewBoard",
             "Influence": 0
         },
         {
-            "Faction": "AuriganPirates",
+            "factionID": "AuriganPirates",
             "Influence": 0
         },
         {
-            "Faction": "AuriganMercenaries",
+            "factionID": "AuriganMercenaries",
             "Influence": 0
         }
     ],
@@ -124,9 +124,10 @@
     "MaxContractOverride": 0,
     "SystemShopItems": [
         "itemCollection_minor_AuriganRestoration",
+        "itemCollection_shop_starleague",
         "itemCollection_SLDF_lvl-6"
     ],
-    "FactionShopOwner": "INVALID_UNSET",
+    "factionShopOwnerID": "INVALID_UNSET",
     "FactionShopItems": null,
     "BlackMarketShopItems": null,
     "CoreSystemID": "starsystemdef_Artru",
@@ -143,10 +144,10 @@
         "KAMEA_CAMPAIGN",
         "CAREER"
     ],
-    "ContractEmployers": [
+    "contractEmployerIDs": [
         "AuriganRestoration"
     ],
-    "ContractTargets": [
+    "contractTargetIDs": [
         "AuriganPirates",
         "TaurianConcordat",
         "AuriganDirectorate"

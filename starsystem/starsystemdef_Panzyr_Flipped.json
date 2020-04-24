@@ -22,7 +22,7 @@
             "planet_other_battlefield",
             "planet_industry_poor",
             "planet_other_hub",
-            "planet_name_panzyr_flipped",
+            "planet_name_panzyr",
             "planet_faction_restoration"
         ],
         "tagSetSourceFile": ""
@@ -48,65 +48,65 @@
     },
     "FuelingStation": false,
     "JumpDistance": 9,
-    "Owner": "AuriganRestoration",
+    "ownerID": "AuriganRestoration",
     "ShopRefreshRate": 0,
     "ShopMaxInventory": 0,
     "ShopMaxSpecials": 4,
     "SystemInfluence": [
         {
-            "Faction": "NoFaction",
+            "factionID": "NoFaction",
             "Influence": 0
         },
         {
-            "Faction": "Davion",
+            "factionID": "Davion",
             "Influence": 0
         },
         {
-            "Faction": "Liao",
+            "factionID": "Liao",
             "Influence": 0
         },
         {
-            "Faction": "Kurita",
+            "factionID": "Kurita",
             "Influence": 0
         },
         {
-            "Faction": "Marik",
+            "factionID": "Marik",
             "Influence": 0
         },
         {
-            "Faction": "Steiner",
+            "factionID": "Steiner",
             "Influence": 0
         },
         {
-            "Faction": "TaurianConcordat",
+            "factionID": "TaurianConcordat",
             "Influence": 0
         },
         {
-            "Faction": "MagistracyOfCanopus",
+            "factionID": "MagistracyOfCanopus",
             "Influence": 0
         },
         {
-            "Faction": "AuriganDirectorate",
+            "factionID": "AuriganDirectorate",
             "Influence": 0
         },
         {
-            "Faction": "AuriganRestoration",
+            "factionID": "AuriganRestoration",
             "Influence": 0
         },
         {
-            "Faction": "ComStar",
+            "factionID": "ComStar",
             "Influence": 0
         },
         {
-            "Faction": "MercenaryReviewBoard",
+            "factionID": "MercenaryReviewBoard",
             "Influence": 0
         },
         {
-            "Faction": "AuriganPirates",
+            "factionID": "AuriganPirates",
             "Influence": 0
         },
         {
-            "Faction": "AuriganMercenaries",
+            "factionID": "AuriganMercenaries",
             "Influence": 0
         }
     ],
@@ -136,11 +136,11 @@
     "SystemShopItems": [
         "itemCollection_minor_AuriganRestoration",
         "itemCollection_shop_battlefield",
-        "itemCollection_shop_progression_med",
         "itemCollection_MechParts_RestoPanzyr",
+        "itemCollection_shop_battlefieldProgression",
         "itemCollection_SLDF_lvl-2"
     ],
-    "FactionShopOwner": "INVALID_UNSET",
+    "factionShopOwnerID": "INVALID_UNSET",
     "FactionShopItems": null,
     "BlackMarketShopItems": null,
     "CoreSystemID": "starsystemdef_Panzyr",
@@ -157,11 +157,11 @@
         "KAMEA_CAMPAIGN",
         "CAREER"
     ],
-    "ContractEmployers": [
+    "contractEmployerIDs": [
         "AuriganRestoration",
         "AuriganPirates"
     ],
-    "ContractTargets": [
+    "contractTargetIDs": [
         "AuriganPirates",
         "Liao",
         "TaurianConcordat",

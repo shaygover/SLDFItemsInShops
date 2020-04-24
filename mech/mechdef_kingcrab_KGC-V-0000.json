@@ -1,0 +1,16 @@
+{
+    "Description" : {
+        "Purchasable" : true,
+        "Name" : "Kingcrab"
+    },
+    "MechTags" : {
+        "items" : [
+            "unit_mech",
+            "unit_assault",
+            "unit_indirectFire",
+            "unit_lance_tank",
+            "unit_role_brawler"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}

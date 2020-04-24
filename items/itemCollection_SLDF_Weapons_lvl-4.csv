@@ -1,2 +1,7 @@
 itemCollection_SLDF_Weapons_lvl-4,,,
 itemCollection_Weapons_SLDF_uncommon,Reference,1,1
+itemCollection_table_Items_gaussM7andammo,Reference,1,1
+itemCollection_table_Items_gaussM9andammo,Reference,1,1
+itemCollection_Ammo_SLDF,Reference,2,1
+itemCollection_shopItems_starleague,Reference,3,1
+itemCollection_shopItems_research,Reference,3,1
