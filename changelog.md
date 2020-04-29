@@ -13,3 +13,6 @@
 ## v0.3.0
 - Updated and should work with game version 1.9
 - Added support for JK_Variants and LC_SLDFRoyal mechs by using the itemCollections in LC_SLDFRoyal_itemCollections. Which means it's now a dependency. 
+
+## 0.3.2
+- LC_SLDFRoyal created some unexpected crashes and weird behavior in game version 1.9.1. It's now removed as a dependency. JK_Variants should be OK. I'll add support for it later. 

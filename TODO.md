@@ -1,0 +1,5 @@
+- Missing items in item collections
+- DLC items: Only add those that are part of the vanilla collections. Others go to separate mod.
+- Change starsystem overrides to modtek's advanced json  merge
+- Add gear to upgrades
+- Separate mod: Add JK_VariantsCampaign, JK_VariantsDLC and JK_VariantsStarLeague support.

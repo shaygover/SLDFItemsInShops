@@ -1,6 +1,5 @@
 ## Required Mods:
 - ModTek v0.7.7.2 or later: https://github.com/BattletechModders/ModTek
-- SLDF Royal Divisions: https://www.nexusmods.com/battletech/mods/371?tab=description
 
 ## What the mod does
 - lvl-1: uncommon items from all factions (Except mechs and mechparts), common mechs and mechparts from all factions. Will show up in every Arano restoration star.
@@ -12,7 +11,7 @@
 - Also black market will get 8 random items from the lvl-6 list. 
 
 
-There are new collections for Heavy, Light and Assault for each house but there is no rarity there so I can't add them. I'll have to do a manual sorting for that. I'll add them in v0.4.0. Hopefully it'll happen before 2021.
+There are new collections for Heavy, Light and Assault for each house but there is no rarity there so I can't add them. I'll have to do a manual sorting for that. I'll add them in the future. Hopefully it'll happen before 2021.
 
 ## Planets revelation stages (I used the flipped file):
 1. Weldry, Fjaldr, Ichlangis: milestone_305_sim_argo_start
