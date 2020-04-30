@@ -1,6 +1,11 @@
 ## Required Mods:
 - ModTek v0.7.7.2 or later: https://github.com/BattletechModders/ModTek
 
+## Other mods based on this mod:
+- Weight, heatsinks and targeting cheat upgrades: https://github.com/shaygover/BTHeatAndWeight
+- (Heavy Metal DLC required) Adds RoyalMechs and Streak Missile Launchers mods item to this mod: https://github.com/shaygover/RoyalMechsAndStreakToSLDFItemsInShops
+- JK_VariantsCampaign, JK_VariantsDLC and JK_VariantsStarLeague: Soon, I hope.
+
 ## What the mod does
 - lvl-1: uncommon items from all factions (Except mechs and mechparts), common mechs and mechparts from all factions. Will show up in every Arano restoration star.
 - lvl-2: rare items from all factions (Except mechs and mechparts) and higher probabilities for common and uncommon items. Stage 2 and forward.
