@@ -1,7 +1,7 @@
 itemCollection_SLDF_MechPart_lvl-1,,,
 itemCollection_MechParts_common,Reference,1,1
-mechdef_commando_COM-1B,MechPartPart,1,5
-mechdef_firestarter_FS9-H,MechPartPart,1,10
+mechdef_commando_COM-1B,MechPart,1,5
+mechdef_firestarter_FS9-H,MechPart,1,10
 mechdef_jenner_JR7-D,MechPartPart,1,10
 mechdef_panther_PNT-9R,MechPartPart,1,10
 mechdef_grasshopper_GHR-5H,MechPart,1,6
