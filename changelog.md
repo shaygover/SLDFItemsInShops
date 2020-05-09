@@ -16,3 +16,6 @@
 
 ## 0.3.2
 - LC_SLDFRoyal created some unexpected crashes and weird behavior in game version 1.9.1. It's now removed as a dependency. JK_Variants should be OK. I'll add support for it later. 
+
+## 0.4.0
+- Added support for new items that were added to the game since the last time I did it (~08.2018).

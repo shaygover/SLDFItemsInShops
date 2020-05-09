@@ -7,16 +7,13 @@
 - JK_VariantsCampaign, JK_VariantsDLC and JK_VariantsStarLeague: Soon, I hope.
 
 ## What the mod does
-- lvl-1: uncommon items from all factions (Except mechs and mechparts), common mechs and mechparts from all factions. Will show up in every Arano restoration star.
-- lvl-2: rare items from all factions (Except mechs and mechparts) and higher probabilities for common and uncommon items. Stage 2 and forward.
+- lvl-1: Uncommon items from all factions (Except mechs and mechparts), common mechs and mechparts from all factions. Will show up in every Arano restoration star.
+- lvl-2: Rare items from all factions (Except mechs and mechparts) and higher probabilities for common and uncommon items. Stage 2 and forward.
 - lvl-3: Higher probabilities for lvl-1 and lvl-2 items and Gauss Rifle. Stage 3 and forward.
-- lvl-4: uncommon mechs and mechparts, uncommon SLDF weapons, SLDF upgrades and mechparts, LC_SLDFRoyal_itemCollections (research, upgrades and items).
-- lvl-5: rare mechs and mechparts, rare SLDF weapons, better probabilities for SLDF upgrades, LC_SLDFRoyal_itemCollections mechparts. 
+- lvl-4: uncommon mechs and mechparts, uncommon SLDF weapons, SLDF upgrades and mechparts.
+- lvl-5: rare mechs and mechparts, rare SLDF weapons, better probabilities for SLDF upgrades. 
 - lvl-6: better probabilities for lvl-4 and lvl-5 items.
 - Also black market will get 8 random items from the lvl-6 list. 
-
-
-There are new collections for Heavy, Light and Assault for each house but there is no rarity there so I can't add them. I'll have to do a manual sorting for that. I'll add them in the future. Hopefully it'll happen before 2021.
 
 ## Planets revelation stages (I used the flipped file):
 1. Weldry, Fjaldr, Ichlangis: milestone_305_sim_argo_start

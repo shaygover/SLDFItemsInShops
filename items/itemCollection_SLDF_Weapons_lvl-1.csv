@@ -55,3 +55,5 @@ itemCollection_Weapons_Davion_common,Reference,1,1
 itemCollection_Weapons_common,Reference,1,1
 itemCollection_Weapons_Ceres_Arms_uncommon,Reference,1,1
 itemCollection_Weapons_Ceres_Arms_common,Reference,1,1
+Weapon_MachineGun_MachineGun_1-Brigadier,Weapon,1,1
+Weapon_MachineGun_MachineGun_1-VMI,Weapon,1,1
