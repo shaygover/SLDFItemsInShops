@@ -1,0 +1,9 @@
+{
+    "Description" : {
+        "Cost" : 940000,
+        "Rarity" : 8,
+        "Purchasable" : true,
+        "Id" : "Gear_General_Robinson_TG120_Drive_Train",
+        "Name" : "Robinson Standard BattleWorks TG 120 Improved Drive Train"
+    }
+}
