@@ -2,7 +2,7 @@
     "Name": "SLDFItemsInShops",
     "Enabled": true,
 
-    "Version": "0.4.2",
+    "Version": "0.5.1",
     "Description": "Adds uncommon, rare and SLDF items to Arano restoration shops",
     "Author": "tharbad08",
     "Website": "https://github.com/shaygover/BTshopsupgrade",
@@ -15,6 +15,7 @@
         { "Type": "AmmunitionBoxDef", "Path": "ammunitionBox", "ShouldMergeJSON": true },
         { "Type": "StarSystemDef", "Path": "starsystem", "ShouldMergeJSON": true },
         { "Type": "ItemCollectionDef", "Path": "items" },
-        { "Type": "ShipModuleUpgrade", "Path": "simulator", "ShouldMergeJSON": true }        
+        { "Type": "ShipModuleUpgrade", "Path": "simulator", "ShouldMergeJSON": true },
+        { "Type": "UpgradeDef", "Path": "gear", "ShouldMergeJSON": true }
     ]
 } 
