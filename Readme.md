@@ -4,9 +4,11 @@
 ## Other mods based on this mod:
 - Weight, heatsinks and targeting cheat upgrades: https://github.com/shaygover/BTHeatAndWeight
 - (Heavy Metal DLC required) Adds RoyalMechs and Streak Missile Launchers mods item to this mod: https://github.com/shaygover/RoyalMechsAndStreakToSLDFItemsInShops
-- JK_VariantsCampaign, JK_VariantsDLC and JK_VariantsStarLeague: Soon, I hope.
+- JK_VariantsCampaign, JK_VariantsDLC and JK_VariantsStarLeague: https://github.com/shaygover/BT_JK_Variants2SLDFItemsInShops.
 
 ## What the mod does
+- light lvl-0: Adds light mech to shops in free worlds (Where the campaign begins).
+Why? Because I don't see why anyone will use a light mech after Axilus. 
 - lvl-1: Uncommon items from all factions (Except mechs and mechparts), common mechs and mechparts from all factions. Will show up in every Arano restoration star.
 - lvl-2: Rare items from all factions (Except mechs and mechparts) and higher probabilities for common and uncommon items. Stage 2 and forward.
 - lvl-3: Higher probabilities for lvl-1 and lvl-2 items and Gauss Rifle. Stage 3 and forward.

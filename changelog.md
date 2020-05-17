@@ -19,3 +19,9 @@
 
 ## 0.4.0
 - Added support for new items that were added to the game since the last time I did it (~08.2018).
+
+## 0.4.2
+- Added all advanced ammo types to lvl 3.
+
+## 0.5.0
+- Light mechs and mechparts were moved to another list.
