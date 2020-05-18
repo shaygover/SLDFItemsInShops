@@ -8,3 +8,9 @@ itemCollection_SLDF_Equipment_lvl-1,Reference,25,1
 itemCollection_SLDF_Mech_lvl-1,Reference,10,1
 itemCollection_SLDF_Weapons_lvl-1,Reference,162,1
 itemCollection_SLDF_Weapons_lvl-3,Reference,4,1
+Ammo_AmmunitionBox_Generic_GAUSS,AmmunitionBox,2,8
+Ammo_AmmunitionBox_Generic_LB2X,AmmunitionBox,2,8
+Ammo_AmmunitionBox_Generic_LB5X,AmmunitionBox,2,8
+Ammo_AmmunitionBox_Generic_LB10X,AmmunitionBox,2,8
+Ammo_AmmunitionBox_Generic_LB20X,AmmunitionBox,2,8
+Ammo_AmmunitionBox_Generic_Narc,AmmunitionBox,2,8

@@ -57,3 +57,9 @@ itemCollection_Weapons_Ceres_Arms_uncommon,Reference,1,1
 itemCollection_Weapons_Ceres_Arms_common,Reference,1,1
 Weapon_MachineGun_MachineGun_1-Brigadier,Weapon,1,1
 Weapon_MachineGun_MachineGun_1-VMI,Weapon,1,1
+Ammo_AmmunitionBox_Generic_GAUSS,AmmunitionBox,2,8
+Ammo_AmmunitionBox_Generic_LB2X,AmmunitionBox,2,8
+Ammo_AmmunitionBox_Generic_LB5X,AmmunitionBox,2,8
+Ammo_AmmunitionBox_Generic_LB10X,AmmunitionBox,2,8
+Ammo_AmmunitionBox_Generic_LB20X,AmmunitionBox,2,8
+Ammo_AmmunitionBox_Generic_Narc,AmmunitionBox,2,8

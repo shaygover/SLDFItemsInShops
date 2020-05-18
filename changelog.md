@@ -25,3 +25,12 @@
 
 ## 0.5.0
 - Light mechs and mechparts were moved to another list.
+
+## 0.5.1
+- Added 2 upgrades.
+
+## 0.5.2 
+- Fixed few typos in the collections.
+
+## 0.5.3
+- Added Heavy Metal items that exist in the base game.

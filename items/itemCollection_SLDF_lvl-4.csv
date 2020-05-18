@@ -16,6 +16,4 @@ Ammo_AmmunitionBox_Generic_LB5X,AmmunitionBox,0,10
 Ammo_AmmunitionBox_Generic_LB10X,AmmunitionBox,0,10
 Ammo_AmmunitionBox_Generic_LB20X,AmmunitionBox,0,10
 Ammo_AmmunitionBox_Generic_Narc,AmmunitionBox,0,10
-Ammo_AmmunitionBox_Generic_SRMInferno,AmmunitionBox,0,10
-Weapon_Gauss_Gauss_1-M7,Weapon,2,10
-Weapon_Gauss_Gauss_0-STOCK,Weapon,0,1
+Ammo_AmmunitionBox_Generic_GAUSS,AmmunitionBox,0,8
