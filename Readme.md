@@ -5,6 +5,8 @@
 - Weight, heatsinks and targeting cheat upgrades: https://github.com/shaygover/BTHeatAndWeight
 - (Heavy Metal DLC required) Adds RoyalMechs and Streak Missile Launchers mods item to this mod: https://github.com/shaygover/RoyalMechsAndStreakToSLDFItemsInShops
 - JK_VariantsCampaign, JK_VariantsDLC and JK_VariantsStarLeague: https://github.com/shaygover/BT_JK_Variants2SLDFItemsInShops.
+- Heavy Metal items: https://github.com/shaygover/SLDFItemsInShops4HW
+- Urban Warfare items: https://github.com/shaygover/SLDFItemsInShops4UW
 
 ## What the mod does
 - light lvl-0: Adds light mech to shops in free worlds (Where the campaign begins).
