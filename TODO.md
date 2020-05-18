@@ -1,3 +1,2 @@
-- DLC items: Only add those that are part of the vanilla collections. Others go to separate mod.
 - Change starsystem overrides to modtek's advanced json  merge
 - Rescan all the itemCollections and rebuild the mod itemCollections.
