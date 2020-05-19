@@ -7,14 +7,15 @@
 - JK_VariantsCampaign, JK_VariantsDLC and JK_VariantsStarLeague: https://github.com/shaygover/BT_JK_Variants2SLDFItemsInShops.
 - Heavy Metal items: https://github.com/shaygover/SLDFItemsInShops4HW
 - Urban Warfare items: https://github.com/shaygover/SLDFItemsInShops4UW
+- Campaign hardcoded mechs variants (Kamea Kintaro, SLDF outpost and Kamea Atlas): https://github.com/shaygover/SLDFItemsInShops2CampaignMechs.
 
 ## What the mod does
 - light lvl-0: Adds light mech to shops in free worlds (Where the campaign begins).
 Why? Because I don't see why anyone will use a light mech after Axilus. 
 - lvl-1: Uncommon items from all factions (Except mechs and mechparts), common mechs and mechparts from all factions. Will show up in every Arano restoration star.
-- lvl-2: Rare items from all factions (Except mechs and mechparts) and higher probabilities for common and uncommon items. Stage 2 and forward.
-- lvl-3: Higher probabilities for lvl-1 and lvl-2 items and Gauss Rifle. Stage 3 and forward.
-- lvl-4: uncommon mechs and mechparts, uncommon SLDF weapons, SLDF upgrades and mechparts.
+- lvl-2: Rare items from all factions (Except mechs and mechparts) and higher probabilities for common and uncommon items. Common SLDF weapons and limited ammo (LB#X, UAC and Narc). Stage 2 and forward. 
+- lvl-3: Higher probabilities for lvl-1 and lvl-2 items and Gauss Rifle. Uncommon SLDF weapons and limited ammo (LB#X, UAC and Narc). Stage 3 and forward.
+- lvl-4: uncommon mechs and mechparts, uncommon SLDF weapons, SLDF upgrades and mechparts. Rare SLDF weapons and limited ammo (LB#X, UAC and Narc).
 - lvl-5: rare mechs and mechparts, rare SLDF weapons, better probabilities for SLDF upgrades. 
 - lvl-6: better probabilities for lvl-4 and lvl-5 items.
 - Also black market will get 8 random items from the lvl-6 list. 
