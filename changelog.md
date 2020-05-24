@@ -34,3 +34,9 @@
 
 ## 0.5.3
 - Added Heavy Metal items that exist in the base game.
+
+## 0.5.4
+- Added itemAppend to mod.json (Was missing :/ ).
+
+## 0.5.5
+- Updated mod.json and chagelog.
