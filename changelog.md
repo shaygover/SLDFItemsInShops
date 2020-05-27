@@ -40,3 +40,6 @@
 
 ## 0.5.5
 - Updated mod.json and chagelog.
+
+## 0.5.6
+- Fixed a typo in the lvl1 list.
