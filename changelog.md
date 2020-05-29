@@ -43,3 +43,6 @@
 
 ## 0.5.6
 - Fixed a typo in the lvl1 list.
+
+## 0.5.7
+- Added items that require cost bypass.
