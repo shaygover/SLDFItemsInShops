@@ -1,14 +1,14 @@
 {
     "Description" : {
-        "Cost" : 0,
-        "Rarity" : 99,
-        "Purchasable" : false,
+        "Cost" : 7500000,
+        "Rarity" : 10,
+        "Purchasable" : true,
         "Manufacturer" : "Stormvanger",
         "Model" : "",
         "UIName" : "Adv. Command Mod",
-        "Id" : "Gear_General_Advanced_Command_Module",
+        "Id" : "pGear_General_Advanced_Command_Module",
         "Name" : "Advanced Command Module",
-        "Details" : "The Cyclops HQ comes equipped with a sophisticated and powerful Advanced Command Module. This integrated system provides improved targeting and superb defense against incoming attacks for the entire Lance.",
+        "Details" : "The Advanced Command Module is an integrated system provides improved targeting and superb defense against incoming attacks for the entire Lance.",
         "Icon" : "uixSvgIcon_special_Equipment"
     },
     "BonusValueA" : "+ 1 Acc. (All)",

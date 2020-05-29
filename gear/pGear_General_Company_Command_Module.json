@@ -1,12 +1,12 @@
 {
     "Description" : {
-        "Cost" : 0,
-        "Rarity" : 99,
-        "Purchasable" : false,
+        "Cost" : 4000000,
+        "Rarity" : 10,
+        "Purchasable" : true,
         "Manufacturer" : "Dalban",
         "Model" : "",
         "UIName" : "Command Mod",
-        "Id" : "Gear_General_Company_Command_Module",
+        "Id" : "pGear_General_Company_Command_Module",
         "Name" : "Company Command Module",
         "Details" : "",
         "Icon" : "uixSvgIcon_special_Equipment"
@@ -17,7 +17,7 @@
     "ComponentSubType" : "NotSet",
     "PrefabIdentifier" : "",
     "InventorySize" : 1,
-    "Tonnage" : 0,
+    "Tonnage" : 1,
     "AllowedLocations" : "All",
     "DisallowedLocations" : "All",
     "CriticalComponent" : false,

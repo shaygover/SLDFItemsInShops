@@ -1,14 +1,14 @@
 {
     "Description" : {
-        "Cost" : 0,
-        "Rarity" : 99,
-        "Purchasable" : false,
+        "Cost" : 500000,
+        "Rarity" : 10,
+        "Purchasable" : true,
         "Manufacturer" : "StarCorp",
         "Model" : "",
         "UIName" : "Optimized Capacitors",
-        "Id" : "Gear_General_Optimized_Capacitors",
+        "Id" : "pGear_General_Optimized_Capacitors",
         "Name" : "Optimized Capacitors",
-        "Details" : "The Optimized Capacitors extending from the Warhammer's engine allow for improved linkages for all Energy weapons mounted on the 'Mech. This boosts the damage output of those weapons beyond their stock capability, capitalizing on the Warhammer's typical loadout.",
+        "Details" : "The Optimized Capacitors allow for improved linkages for all Energy weapons mounted on the 'Mech. This boosts the damage output of those weapons beyond their stock capability.",
         "Icon" : "UixSvgIcon_specialEquip_System"
     },
     "BonusValueA" : "+ 20% Energy Dmg.",
@@ -17,7 +17,7 @@
     "ComponentSubType" : "NotSet",
     "PrefabIdentifier" : "",
     "InventorySize" : 1,
-    "Tonnage" : 0,
+    "Tonnage" : 2,
     "AllowedLocations" : "CenterTorso",
     "DisallowedLocations" : "All",
     "CriticalComponent" : false,
