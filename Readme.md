@@ -36,5 +36,62 @@ Why? Because I don't see why anyone will use a light mech after Axilus.
 - I know. That's the point. If you only want SLDF items in the shop, just tell me what exactly you want (What items and which stage).
 - You can delete some files from the "starsystem" dir to remove the mod extra items from those stores. I suggest deleting everything but: Weldry, Panzyr, Smithon, Itrom, Tyrlon and Coromodir.
 
+## Compatible Mods
+- Skirmish Inventory Unlock
+- AddYearToTimeline
+- Advanced Difficulty Settings
+- AIM: Attack Improvement Mod
+- BetterBaseDefense
+- BTMLColorLOSMod
+- Commander_Background_and_Quirks
+- CommanderPortraitLoader
+- CommunityBundles
+- CustomComponents
+- DontShootTheDead
+- DynamicCompanyMorale
+- FasterVehiclesModTek
+- Flashpoint_the_Cache
+- FYLS
+- Historical Priate Flags Emblems
+- Increase Max Camera Zoom Distance
+- IRBTModUtils
+- IRTweaks
+- JK_VariantsCampaign
+- JK_VariantsDLC
+- JK_VariantsStarLeague
+- JustDieAlready
+- LessHeadInjuries
+- LittleThings
+- Loading Screen Tips
+- LootMagnet
+- MeleeMover
+- Mellowseven Emblems
+- More Tanks 3025
+- Norse Symbols
+- NROL Emblems,
+- OnePointArmorStep
+- PanicSystem
+- Pilot Fatigue
+- Pilot Quirks
+- PilotHealthPopup
+- Quad Flamer Ammo
+- QuietDarius
+- Repair Bays
+- Retrainer
+- Sci-Fi Emblems
+- Skip to Leopard
+- SkipIntro
+- StopWastingMyTime
+- StreakMissileLaunchers
+- Survivable Arms
+- TurretlessVehicleHits
+- Warhammer Emblems
+- RoyalMechs
+- Z_Sab_JK_RarityTables
+- PermanentEvasion
+
+## Not Compatible Mods:
+- Weapon Diversity
+
 ## License
 This software is licensed with GPL 3.0. If you repacked it, please let me know. If you have problems, open an issue.
