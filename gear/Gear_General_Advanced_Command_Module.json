@@ -1,0 +1,24 @@
+{
+    "Description" : {
+        "Cost" : 7500000,
+        "Rarity" : 10,
+        "Purchasable" : true,
+        "Manufacturer" : "Stormvanger",
+        "Model" : "",
+        "UIName" : "Adv. Command Mod",
+        "Id" : "Gear_General_Advanced_Command_Module",
+        "Name" : "Advanced Command Module",
+        "Details" : "The Advanced Command Module is an integrated system provides improved targeting and superb defense against incoming attacks for the entire Lance.",
+        "Icon" : "uixSvgIcon_special_Equipment"
+    },
+    "BonusValueA" : "+ 1 Acc. (All)",
+    "BonusValueB" : "- 10% Dmg. (Lance)",
+    "ComponentType" : "Upgrade",
+    "ComponentSubType" : "NotSet",
+    "PrefabIdentifier" : "",
+    "InventorySize" : 6,
+    "Tonnage" : 8,
+    "AllowedLocations" : "LeftTorso,RightTorso",
+    "DisallowedLocations" : "All",
+    "CriticalComponent" : false
+}

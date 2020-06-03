@@ -1,0 +1,24 @@
+{
+    "Description" : {
+        "Cost" : 4000000,
+        "Rarity" : 10,
+        "Purchasable" : true,
+        "Manufacturer" : "Dalban",
+        "Model" : "",
+        "UIName" : "Command Mod",
+        "Id" : "Gear_General_Company_Command_Module",
+        "Name" : "Company Command Module",
+        "Details" : "",
+        "Icon" : "uixSvgIcon_special_Equipment"
+    },
+    "BonusValueA" : "+ Called Shot",
+    "BonusValueB" : "- 10% Dmg. (Lance)",
+    "ComponentType" : "Upgrade",
+    "ComponentSubType" : "NotSet",
+    "PrefabIdentifier" : "",
+    "InventorySize" : 1,
+    "Tonnage" : 1,
+    "AllowedLocations" : "All",
+    "DisallowedLocations" : "All",
+    "CriticalComponent" : false
+}

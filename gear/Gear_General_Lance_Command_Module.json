@@ -1,0 +1,24 @@
+{
+    "Description" : {
+        "Cost" : 2500000,
+        "Rarity" : 10,
+        "Purchasable" : true,
+        "Manufacturer" : "Dalban",
+        "Model" : "",
+        "UIName" : "Lance Command Mod",
+        "Id" : "Gear_General_Lance_Command_Module",
+        "Name" : "Lance Command Module",
+        "Details" : "The Lance Command Module allows to better coordinate the actions of a unit of 'Mechs. This provides better defense against incoming attacks for all lancemates and improves the reliablity of Called Shots executed by this 'Mech.",
+        "Icon" : "uixSvgIcon_special_Equipment"
+    },
+    "BonusValueA" : "+ Called Shot",
+    "BonusValueB" : "- 10% Dmg. (Lance)",
+    "ComponentType" : "Upgrade",
+    "ComponentSubType" : "NotSet",
+    "PrefabIdentifier" : "",
+    "InventorySize" : 3,
+    "Tonnage" : 2,
+    "AllowedLocations" : "LeftTorso,RightTorso",
+    "DisallowedLocations" : "All",
+    "CriticalComponent" : false
+}
