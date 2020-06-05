@@ -20,5 +20,9 @@
     "Tonnage" : 8,
     "AllowedLocations" : "LeftTorso,RightTorso",
     "DisallowedLocations" : "All",
-    "CriticalComponent" : false
+    "CriticalComponent" : false,
+    "ComponentTags" : {
+        "items" : [        ],
+        "tagSetSourceFile" : ""
+    }
 }

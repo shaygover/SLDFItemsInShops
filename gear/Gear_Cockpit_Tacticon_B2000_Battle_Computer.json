@@ -6,5 +6,9 @@
         "UIName" : "Battle Computer",
         "Id" : "Gear_Cockpit_Tacticon_B2000_Battle_Computer",
         "Name" : "Tacticon B-2000 Battle Computer"
+    },
+    "ComponentTags" : {
+        "items" : [        ],
+        "tagSetSourceFile" : ""
     }
 }
