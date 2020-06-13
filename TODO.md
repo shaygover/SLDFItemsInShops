@@ -1,3 +1,4 @@
 - Change starsystem overrides to modtek's advanced json  merge
 - Rescan all the itemCollections and rebuild the mod itemCollections.
 - Change items IDs on the royal mechs.
+- Add tags to planets according level.
