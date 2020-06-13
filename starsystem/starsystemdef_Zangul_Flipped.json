@@ -25,7 +25,8 @@
             "planet_other_megacity",
             "planet_name_zangul",
             "planet_faction_restoration",
-            "planet_industry_electronics"
+            "planet_industry_electronics",
+            "lvl-3"
         ],
         "tagSetSourceFile": ""
     },

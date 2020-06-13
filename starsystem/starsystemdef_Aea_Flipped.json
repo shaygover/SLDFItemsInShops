@@ -20,7 +20,8 @@
             "planet_industry_aquaculture",
             "planet_name_aea",
             "planet_faction_restoration",
-            "planet_industry_chemicals"
+            "planet_industry_chemicals",
+            "lvl-6"
         ],
         "tagSetSourceFile": ""
     },

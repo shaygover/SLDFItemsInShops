@@ -24,7 +24,8 @@
             "planet_other_moon",
             "planet_name_regisroost",
             "planet_faction_restoration",
-            "planet_industry_chemicals"
+            "planet_industry_chemicals",
+            "lvl-6"
         ],
         "tagSetSourceFile": ""
     },

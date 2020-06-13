@@ -21,7 +21,8 @@
             "planet_industry_poor",
             "planet_name_heliat",
             "planet_faction_restoration",
-            "planet_industry_chemicals"
+            "planet_industry_chemicals",
+            "lvl-5"
         ],
         "tagSetSourceFile": ""
     },

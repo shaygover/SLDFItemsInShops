@@ -20,7 +20,8 @@
             "planet_industry_agriculture",
             "planet_name_mangzhangdian",
             "planet_faction_restoration",
-            "planet_industry_chemicals"
+            "planet_industry_chemicals",
+            "lvl-4"
         ],
         "tagSetSourceFile": ""
     },

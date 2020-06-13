@@ -24,7 +24,8 @@
             "planet_other_blackmarket",
             "planet_name_bringdam",
             "planet_faction_restoration",
-            "planet_other_battlefield"
+            "planet_other_battlefield",
+            "lvl-2"
         ],
         "tagSetSourceFile": ""
     },

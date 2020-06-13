@@ -21,7 +21,8 @@
             "planet_industry_mining",
             "planet_other_newcolony",
             "planet_name_qalzi",
-            "planet_faction_restoration"
+            "planet_faction_restoration",
+            "lvl-6"
         ],
         "tagSetSourceFile": ""
     },

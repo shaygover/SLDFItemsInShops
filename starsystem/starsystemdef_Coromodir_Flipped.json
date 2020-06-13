@@ -26,7 +26,8 @@
             "planet_other_moon",
             "planet_other_megacity",
             "planet_name_coromodir",
-            "planet_faction_restoration"
+            "planet_faction_restoration",
+            "lvl-6"
         ],
         "tagSetSourceFile": ""
     },
