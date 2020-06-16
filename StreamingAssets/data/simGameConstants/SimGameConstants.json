@@ -1,0 +1,6 @@
+{
+   "Finances" : {
+        "DefaultShopMaxInventory" : 100,
+        "DefaultShopMaxSpecials" : 4
+   }
+}
